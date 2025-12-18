@@ -38,13 +38,13 @@
 
 class About extends Me { 
   const myTools = {  
-    "ProgrammingLanguages" : { "Python", "C++" },
+    "ProgrammingLanguages" : { "Python", "C++" , "javascript", "Dart", "Kotlin", "Java"},
     "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
     "Hardware" : { "Arduino", "ESP8266" },
-    "Frameworks" : { "Tkinter" },
-    "Editors" : { "Vscode", "Figma" },
+    "Frameworks" : { "CustomTkinter" },
+    "Editors" : { "Vscode", "Figma" , "Cursor", "Antigravity", "Spyder", ""},
     "Platforms" : { "Linux", "Windows" },
-    "OtherTools" : { "Git" }
+    "OtherTools" : { "Git" , "Paper", "Whiteboard"}
   };
 }
 <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />   I’m currently learning Flutter & Kotlin. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
